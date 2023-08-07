@@ -9,7 +9,6 @@
   <img  src="https://www.picgifs.com/movies-and-series/movies/the-matrix/picgifs-the-matrix-5008593.gif"/>
 </div>
 
-<hr>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Competent Sales Professional getting into Data Analytics</h2></summary>
