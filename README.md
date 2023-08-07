@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- ☁️ I know ~~Kung Fu~~ **SQL** and a bit **HTML**. Using Google Looker Studio for my vizualizations. But would like to learn Tableau.
+- ☁️ I know ~~Kung Fu~~ **SQL** and a bit **HTML**. Using **Google Looker Studio** for my vizualizations. But would like to learn **Tableau** too.
 
 - 🌱 Bachelor's Degree in **Computer Science**
 
@@ -39,14 +39,6 @@
 🌱 Leading healthy lifestyle
 🌟 Lived in Lithuania, UK, Malaysia, Indonesia.
 </pre>
-<hr>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <!--h2 without bottom border-->
 
