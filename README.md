@@ -16,7 +16,7 @@
 </div>
 
 <!--Intro start-->
-- ☁️ I know ~~Kung Fu~~ **SQL** and a bit **HTML**. Using **Google Looker Studio** for my vizualizations. But would like to learn **Tableau** too.
+- ☁️ I know ~~Kung Fu~~ **SQL (BigQuery)** and a bit **HTML**. Using **Google Looker Studio** for my vizualizations. Would like to learn **Tableau** too.
 
 - 🌱 Bachelor's Degree in **Computer Science**
 
