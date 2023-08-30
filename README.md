@@ -22,7 +22,7 @@
 
 - 🔭 Finished [Turing College](https://www.turingcollege.com/data-analytics) **Data Analytics** course (now going throught optional finance analysis and python modules)
 
-- 💬 Over 10 years experience in sales helps me to connect the dots between IT, Sales, Marketing. I am usually the guy who translates IT talk to business people and vise versa.
+- 💬 Over 10 years’  experience in sales helps me to connect the dots between IT, Sales, Marketing. I am usually the guy who translates IT talk to business people and vice versa.
 
 - 📝 I have a very strong curiosity about Data Science and Artificial Intelligence
 
