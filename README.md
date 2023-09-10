@@ -11,18 +11,18 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Competent Sales Professional getting into Data Analytics</h2></summary>
+    <summary><h2 style="display: inline-block">Experienced Data Analyst with a strong background in sales</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- ☁️ I know ~~Kung Fu~~ **SQL (BigQuery)** and a bit **HTML**. Using **Google Looker Studio** for my vizualizations. Would like to learn **Tableau** too.
+- ☁️ I know ~~Kung Fu~~ **SQL (BigQuery)**, a bit **HTML**. Using **Google Looker Studio** for my vizualizations. **JMP Pro 17** for statistical modeling.
 
 - 🌱 Bachelor's Degree in **Computer Science**
 
-- 🔭 Finished [Turing College](https://www.turingcollege.com/data-analytics) **Data Analytics** course (now going throught optional finance analysis and python modules)
+- 🔭 Finished [Turing College](https://www.turingcollege.com/data-analytics) **Data Analytics** course (now going throught optional Python module)
 
-- 💬 Over 10 years’  experience in sales helps me to connect the dots between IT, Sales, Marketing. I am usually the guy who translates IT talk to business people and vice versa.
+- 💬 Over a decade of experience in various sales domains helps me to connect the dots between IT, Sales, Marketing. I am usually the guy who translates IT talk to business people and vice versa.
 
 - 📝 I have a very strong curiosity about Data Science and Artificial Intelligence
 
@@ -48,33 +48,33 @@
 
 ### :heavy_check_mark: Projects which include interactive Google Looker Studio Dashboards
   
-  ##### Sales Department Dashboard (+ PowerPoint presentation included)
+  #### Sales Department Dashboard (+ PowerPoint presentation included)
   https://github.com/aidas-projects/TC_data_projects/tree/main/SalesDepartmentDashboard
   
-  ##### Marketing Analysis
+  #### Marketing Analysis
   https://github.com/aidas-projects/TC_data_projects/tree/main/MarketingAnalysis
 
-  ##### Product Analysis
+  #### Product Analysis
   https://github.com/aidas-projects/TC_data_projects/tree/main/ProductAnalysis
 
-  ##### RFM Segmentation (Recency - Frequency - Monetary value) 
+  #### RFM Segmentation (Recency - Frequency - Monetary value) 
   https://github.com/aidas-projects/TC_data_projects/tree/main/RFM_Segmentation
 
 ### :heavy_check_mark: Projects where statistical model was built (Logistic Regression)
   
-  ##### Heart Disease Prediction
+  #### Heart Disease Prediction
   https://github.com/aidas-projects/TC_data_projects/tree/main/HeartDiseasePrediction-StatModel
 
-  ##### Credit Risk Analysis
+  #### Credit Risk Analysis
   https://github.com/aidas-projects/TC_data_projects/tree/main/CreditRiskAnalysis
 
   
 ### :heavy_check_mark: Other projects
 
-##### Olist Database Analysis - total freedom was given what to analyse in this database (+ PowerPoint presentation included)
+#### Olist Database Analysis - total freedom was given what to analyse in this database (+ PowerPoint presentation included)
 https://github.com/aidas-projects/TC_data_projects/tree/main/OlistDbAnalysis
 
-##### CLV (Customer Lifetime Value) Cohorts Analysis
+#### CLV (Customer Lifetime Value) Cohorts Analysis
 https://github.com/aidas-projects/TC_data_projects/tree/main/CLV-CohortsAnalysis
 
 <!--
